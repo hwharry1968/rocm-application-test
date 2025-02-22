@@ -7,9 +7,9 @@ Pytorch: 2.0.1
 
 - [Intoduction](#intoduction)
 - [Deploy ROCm](#deploy-rocm)
- - [Prerequisites](#prerequisites)
- - [ROCm Installation](#rocm-installation)
- - [Pytorch Installation for ROCm (optional)](#pytorch-installation-for-rocm-optional)
+  --[Prerequisites](#prerequisites)
+  --[ROCm Installation](#rocm-installation)
+  --[Pytorch Installation for ROCm (optional)](#pytorch-installation-for-rocm-optional)
 - [ROCm Examples (GitHub examples)](#rocm-examples-github-examples)
  - [Prerequisites](#prerequisites-1)
  - [Building the examples](#building-the-examples)
